@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60be9858-e39e-4954-adb6-6d583e8d000b" name="Changes" comment="final">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scientific_Calculator.log" beforeDir="false" afterPath="$PROJECT_DIR$/Scientific_Calculator.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SciCal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SciCal.java" afterDir="false" />
-    </list>
+    <list default="true" id="60be9858-e39e-4954-adb6-6d583e8d000b" name="Changes" comment="final" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679411213788</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="final">
+      <created>1679413341807</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1679413341809</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
