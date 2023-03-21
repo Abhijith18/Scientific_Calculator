@@ -8,7 +8,9 @@ public class SciCal {
     {
         SciCal cal = new SciCal();
         System.out.println("0: Square root function");
-        System.out.println("1: Fatcorial function");
+        System.out.println("1: Factorial function");
+        System.out.println("2: Natural logarithm function");
+        System.out.println("3: Power function");
         System.out.print("Enter an operation number: ");
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
@@ -23,6 +25,16 @@ public class SciCal {
                 int numi = sc.nextInt();
                 System.out.println(cal.factorial(numi));
                 break;
+            case 2:
+                System.out.print("Enter a number: ");
+                double numn = sc.nextDouble();
+                System.out.println(cal.log(numn));
+            case 3:
+                System.out.print("Enter a number for base: ");
+                double x = sc.nextDouble();
+                System.out.print("Enter a number for exp: ");
+                double b = sc.nextDouble();
+                System.out.println(cal.power(x,b));
             default:
                 break;
         }
