@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60be9858-e39e-4954-adb6-6d583e8d000b" name="Changes" comment="log4j2">
-      <change afterPath="$PROJECT_DIR$/src/test/java/factorialTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/sqrootTest.java" afterDir="false" />
+    <list default="true" id="60be9858-e39e-4954-adb6-6d583e8d000b" name="Changes" comment="tests">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CLI-Calculator.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scientific_Calculator.log" beforeDir="false" afterPath="$PROJECT_DIR$/Scientific_Calculator.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/SciCal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SciCal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SciCalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/factorialTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/factorialTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/sqrootTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/sqrootTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679344789733</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="log4j2">
+      <created>1679407221583</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679407221584</updated>
+    </task>
+    <task id="LOCAL-00008" summary="tests">
+      <created>1679407858120</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679407858120</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,6 +155,7 @@
     <MESSAGE value="files push" />
     <MESSAGE value="inventory and p2.yml files" />
     <MESSAGE value="log4j2" />
-    <option name="LAST_COMMIT_MESSAGE" value="log4j2" />
+    <MESSAGE value="tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="tests" />
   </component>
 </project>

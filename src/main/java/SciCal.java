@@ -31,9 +31,14 @@ public class SciCal {
 
     public int factorial(int n)
     {
+        int fact = -1;
         if (n<0)
-            return -1;
-        int fact = 1;
+        {
+            logger.info("[FACTORIAL] - " + n);
+            logger.info("[RESULT - FACTORIAL] - " + fact);
+            return fact;
+        }
+        fact = 1;
         for(int i=1; i<n+1; i++)
             fact *= i;
         logger.info("[FACTORIAL] - " + n);
@@ -43,9 +48,14 @@ public class SciCal {
 
     public double sqroot(double n)
     {
+        double result = -1;
         if (n<0)
-            return -1;
-        double result = Math.sqrt(n);
+        {
+            logger.info("[SQUARE_ROOT] - " + n);
+            logger.info("[RESULT - SQUARE_ROOT] - " + result);
+            return result;
+        }
+        result = Math.sqrt(n);
         logger.info("[SQUARE_ROOT] - " + n);
         logger.info("[RESULT - SQUARE_ROOT] - " + result);
         return result;

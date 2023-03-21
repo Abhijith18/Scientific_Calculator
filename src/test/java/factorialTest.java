@@ -5,7 +5,7 @@ import org.junit.Test;
 
 public class factorialTest {
     @BeforeClass
-    public static void factorialTest(){
+    public static void factorialstartTest(){
         System.out.println("*******************************");
         System.out.println("Starting Factorial Test");
         System.out.println("*******************************");

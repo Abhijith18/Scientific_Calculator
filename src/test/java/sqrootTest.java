@@ -5,7 +5,7 @@ import org.junit.Test;
 
 public class sqrootTest {
     @BeforeClass
-    public static void sqrootTest(){
+    public static void sqrootstartTest(){
         System.out.println("*******************************");
         System.out.println("Starting Square Root Test");
         System.out.println("*******************************");
