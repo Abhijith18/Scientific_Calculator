@@ -33,7 +33,7 @@ public class SciCal {
             case 3:
                 System.out.print("Enter a number for base: ");
                 double x = sc.nextDouble();
-                System.out.print("Enter a number for exp: ");
+                System.out.print("Enter a number for exponent: ");
                 double b = sc.nextDouble();
                 System.out.println(cal.power(x,b));
                 break;
