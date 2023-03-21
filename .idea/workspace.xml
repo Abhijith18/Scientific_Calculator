@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60be9858-e39e-4954-adb6-6d583e8d000b" name="Changes" comment="tests">
+      <change afterPath="$PROJECT_DIR$/src/test/java/logTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/powerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Scientific_Calculator.log" beforeDir="false" afterPath="$PROJECT_DIR$/Scientific_Calculator.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/SciCal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SciCal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/factorialTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/factorialTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/sqrootTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/sqrootTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679407858120</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="tests">
+      <created>1679409281123</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679409281135</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

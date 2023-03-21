@@ -3,7 +3,7 @@ import org.junit.BeforeClass;
 import static org.junit.Assert.*;
 import org.junit.Test;
 
-public class sqrootTest {
+public class sqrootTest{
     @BeforeClass
     public static void sqrootstartTest(){
         System.out.println("*******************************");

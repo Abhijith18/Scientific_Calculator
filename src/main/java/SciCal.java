@@ -61,4 +61,20 @@ public class SciCal {
         return result;
     }
 
+    public double log(double n)
+    {
+        double result = Math.log(n);
+        logger.info("[NATURAL_LOG] - " + n);
+        logger.info("[RESULT - NATURAL_LOG] - " + result);
+        return result;
+    }
+
+    public double power(double x, double b)
+    {
+        double result = Math.pow(x, b);
+        logger.info("[POWER] - " + x + "^" + b);
+        logger.info("[RESULT - POWER] - " + result);
+        return result;
+    }
+
 }
