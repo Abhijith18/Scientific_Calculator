@@ -40,6 +40,6 @@ public class factorialTest {
     @AfterClass
     public static void factorialResult()
     {
-        System.out.println("End of factorial testing");
+        System.out.println("End of testing of factorial");
     }
 }

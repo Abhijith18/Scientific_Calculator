@@ -32,6 +32,6 @@ public class sqrootTest {
     @AfterClass
     public static void sqrootResult()
     {
-        System.out.println("End of square root testing");
+        System.out.println("End of testing of square root");
     }
 }
