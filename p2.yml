@@ -1,6 +1,6 @@
 
 ---
-- name: pull mini_project image
+- name: pull scientific_calculator image
   hosts: all
   tasks:
 
@@ -11,5 +11,5 @@
                 name: abhijith18/scientific_calculator
                 source: pull
 
-          - name: creating updated container
+          - name: running container
             shell: docker run -it -d abhijith18/scientific_calculator /bin/bash
